@@ -15,6 +15,7 @@ The application relies on the following dependencies:
 - React
 - JavaScript
 - Tomorrow.io API
+- Material UI
 
 # Installation Instructions
 To install dependencies and set up the development environment, follow these instructions:
