@@ -1,5 +1,6 @@
 # Assignment Overview
-This assignment involves developing a web application using React and hosting it on a local server. The purpose of the application is to provide users with real-time and forecasted weather data using the Tomorrow.io API.
+The task is to use React to create a web application that will run locally on a server. Using the Tomorrow.io API, the application's main goal is to give users access to forecasted and real-time weather data. React is a well-liked JavaScript user interface library that is selected for interactive web application development due to its effectiveness and adaptability. Users can access current weather conditions and forecasts by using the application that retrieves accurate weather data thanks to the Tomorrow.io API. Users can run the application locally without relying on external servers, which ensures accessibility and convenience. The assignment seeks to provide a workable way to access weather data while showcasing expertise in React development, API integration, and local server hosting.
+
 
 # How to Run the Application
 To run the application locally, follow these steps:
