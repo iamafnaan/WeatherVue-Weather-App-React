@@ -1,6 +1,9 @@
 # WeatherVue - Realtime Weather Monitoring and Forecasting App
 WeatherVue is a dynamic web application built with React, designed to provide users with real-time and forecasted weather data. With a sleek and intuitive user interface, WeatherVue makes it effortless for users to stay updated on current weather conditions and plan ahead with accurate forecasts. Whether it's checking the temperature before heading out for a jog or planning a weekend getaway, WeatherVue has you covered.
 
+## Live Demo
+Explore WeatherVue: [Live Demo](https://weather-app-umber-sigma.vercel.app/)
+
 ## Purpose
 The primary purpose of WeatherVue is to offer a seamless and user-friendly platform for accessing weather information. By leveraging the Tomorrow.io API, WeatherVue ensures the delivery of precise and up-to-date weather data, allowing users to make informed decisions based on real-time information. Whether users are tracking weather patterns for personal or professional purposes, WeatherVue provides the necessary tools and insights to stay prepared for any weather event.
 
@@ -17,9 +20,6 @@ WeatherVue caters to a diverse audience, including:
 - **Travelers:** Whether planning a weekend getaway or a long-distance journey, travelers can use WeatherVue to check weather conditions at their destination.
 - **Professionals:** Professionals in industries such as agriculture, transportation, and construction can utilize WeatherVue to monitor weather patterns and plan operations accordingly.
 - **General Users:** Anyone seeking accurate and reliable weather information for personal or professional purposes can benefit from WeatherVue's intuitive interface and comprehensive features.
-  
-## Live Demo
-Explore WeatherVue: [Live Demo](https://weather-9968s4yio-syedafnaanahmeds-projects.vercel.app/)
 
 ## Features
 - Real-time weather updates
