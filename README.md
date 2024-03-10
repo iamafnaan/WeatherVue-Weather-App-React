@@ -26,9 +26,6 @@ To install dependencies and set up the development environment, follow these ins
 # Configuration
 No additional configuration is required. However, ensure that you have valid API keys for Tomorrow.io if you intend to use the API.
 
-# Testing
-Testing is not included in this version of the application.
-
 # Issues and Troubleshooting
 If you encounter any issues while running the application, consider the following troubleshooting steps:
 - Ensure all dependencies are properly installed by running `npm install`.
