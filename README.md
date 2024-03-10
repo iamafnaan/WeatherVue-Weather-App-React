@@ -51,6 +51,7 @@ To run WeatherVue locally, follow these steps:
 - React
 - JavaScript
 - Tomorrow.io API
+- Material UI
 - Vercel (for deployment)
 
 ## Feedback and Contributions
